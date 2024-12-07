@@ -1,0 +1,11 @@
+bs4
+rich
+cython
+pillow
+blessed
+requests
+inquirer
+pytesseract
+fake-useragent
+beautifulsoup4
+requests-toolbelt

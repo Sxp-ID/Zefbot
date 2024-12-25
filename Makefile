@@ -1,7 +1,7 @@
 install:
 	@git pull
 	@clear
-	apt-get install bash curl wget jq
+	apt-get install bash curl wget jq neofetch xz-utils
 	apt-get install python python-pip nano bc xh
 	apt-get install clang ncurses-utils tesseract
 	python -m pip install -r data/requirements.txt
